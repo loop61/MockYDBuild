@@ -1,13 +1,29 @@
-.intro h2 , .slant {
+.intro h2 , .slant , .slant1 , .slant2 , .slant3 {
   font-family: cursive;
+}
+.slant1 {
+  background-color: Green;
+}
+.slant2 {
+  background-color: DarkCyan;
+}
+.slant3 {
+  background-color: HotPink;
 }
 .intro {
   text-align: center;
   font-size: 20px;
+}
+.slant1, .slant2, .slant3{
+  color: white;
 }
 .learn {
   color: grey;
 }
 .square li {
   list-style: lower-roman;
+}
+#heading {
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg');
+  font-size: 40px;
 }
