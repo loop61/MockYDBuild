@@ -1,0 +1,16 @@
+.intro , .slant , .curve {
+  font-family: cursive;
+}
+.intro {
+  text-align: center;
+  font-size: 20px;
+}
+.slant{
+  color: rebeccapurple;
+}
+.courselinks li a {
+  color: red;
+}
+.courselinks li {
+  list-style: lower-roman;
+}
