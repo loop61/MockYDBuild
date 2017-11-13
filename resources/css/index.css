@@ -4,6 +4,7 @@
 .intro {
   text-align: center;
   font-size: 30px;
+  color: white;
 }
 .slant1, .slant2, .slant3{
   color: white;
@@ -24,5 +25,5 @@
   list-style: lower-roman;
 }
 .heading {
-  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg');
+  background-image: url('http://pre10.deviantart.net/3046/th/pre/f/2010/320/d/1/website_background_by_modsoft-d3302jz.png');
 }
