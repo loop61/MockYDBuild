@@ -18,7 +18,7 @@
   color: white;
 }
 .learn {
-  color: grey;
+  color: Dim-Gray;
 }
 .square li {
   list-style: lower-roman;
@@ -26,4 +26,7 @@
 #heading {
   background-image: url('http://pre10.deviantart.net/3046/th/pre/f/2010/320/d/1/website_background_by_modsoft-d3302jz.png');
   font-size: 55px;
+}
+html {
+  background-color: DeepSkyBlue;
 }
