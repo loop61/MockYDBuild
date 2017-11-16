@@ -6,7 +6,7 @@
   font-size: 30px;
   color: white;
 }
-.slant1, .slant2, .slant3 {
+.slant1 , .slant2 , .slant3 {
   color: white;
 }
 .slant1 {
@@ -18,11 +18,17 @@
 .slant3  {
   background-color: HotPink;
 }
-.courselinks li a {
-  color: red;
+.curve a {
+  color: white;
+  text-align: center;
+  background-color: HotPink;
+  border-radius: 3px;
+  padding: 10px;
 }
-.courselinks li {
-  list-style: lower-roman;
+.curve{
+  border: 2px solid HotPink;
+  padding: 20px;
+  text-align: center;
 }
 .heading {
   background-image: url('http://pre10.deviantart.net/3046/th/pre/f/2010/320/d/1/website_background_by_modsoft-d3302jz.png');
