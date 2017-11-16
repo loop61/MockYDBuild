@@ -25,10 +25,14 @@
   border-radius: 3px;
   padding: 10px;
 }
-.curve{
+.h3 {
+  text-align: center;
+}
+.curve {
   border: 2px solid HotPink;
   padding: 20px;
   text-align: center;
+  margin: 2px 560px;
 }
 .heading {
   background-image: url('http://pre10.deviantart.net/3046/th/pre/f/2010/320/d/1/website_background_by_modsoft-d3302jz.png');

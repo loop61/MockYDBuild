@@ -23,6 +23,7 @@
 .curve {
   border: 3px solid HotPink;
   padding: 15px;
+  margin: 2px 560px;
 }
 .slant1, .slant2, .slant3, #heading {
   color: white;
