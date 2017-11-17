@@ -1,5 +1,5 @@
 .intro , .slant1 , .slant2 , .slant3 , .curve {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
 }
 .intro {
   text-align: center;
@@ -18,11 +18,13 @@
 .slant3  {
   background-color: HotPink;
 }
+.slant3 , .slant2 , .slant1 , .curve a , .heading {
+  border-radius: 3px;
+}
 .curve a {
   color: white;
   text-align: center;
   background-color: HotPink;
-  border-radius: 3px;
   padding: 10px;
 }
 .h3 {
@@ -36,6 +38,7 @@
 }
 .heading {
   background-image: url('http://pre10.deviantart.net/3046/th/pre/f/2010/320/d/1/website_background_by_modsoft-d3302jz.png');
+  margin: 2px 300px;
 }
 html {
   background-color: DeepSkyBlue;
