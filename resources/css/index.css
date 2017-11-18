@@ -23,17 +23,21 @@
 }
 .curve a {
   color: white;
-  text-align: center;
   background-color: HotPink;
+}
+.curve a , .curve a:hover {
   padding: 10px;
 }
-.h3 {
+.curve a:hover {
+  background: white;
+  color: HotPink;
+}
+.h3 , .curve {
   text-align: center;
 }
 .curve {
   border: 2px solid HotPink;
   padding: 20px;
-  text-align: center;
   margin: 2px 560px;
 }
 .heading {

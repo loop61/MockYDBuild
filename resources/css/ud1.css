@@ -11,7 +11,7 @@
 .slant3 {
   background-color: Green;
 }
-.slant1, .slant2, .slant3 , #heading {
+.slant1 , .slant2 , .slant3 , #heading {
   color: white;
 }
 .intro {
@@ -23,6 +23,11 @@
   border-radius: 3px;
   padding: 5px;
   color: white;
+}
+.curve a:hover {
+  background: white;
+  color: HotPink;
+  padding: 5px;
 }
 .curve {
   border: 3px solid HotPink;
